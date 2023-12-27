@@ -295,9 +295,18 @@
                                     "img5": "./images/Artel-Baraka_4.png"
                                 },
                                 {
-                                    "name": "YYK18-4B",
+                                    "name": "Artel-Everest",
                                     "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
-                                    "img1": "./images/YYK18-4B.png"
+                                    "img1": "./images/Artel-Everest.png",
+                                    "img2": "./images/Artel-Everest_1.png",
+                                    "img3": "./images/Artel-Everest_2.png"
+                                },
+                                {
+                                    "name": "Artel-Everest-Inverter",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/Artel-Everest-Inverter.png",
+                                    "img2": "./images/Artel-Everest-Inverter_1.png",
+                                    "img3": "./images/Artel-Everest-Inverter_1.png"
                                 }
                             ]
                         }
