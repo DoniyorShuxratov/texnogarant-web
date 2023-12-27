@@ -2,8 +2,8 @@
     "products": [
         {
             "id": 1,
-            "productTypeByCompany": [
-                {
+            "productTypeBy": [
+                { 
                     "companyName": "Shivaki",
                     "companyProducts": [
                         {
@@ -73,6 +73,7 @@
             ]
         }
     ],
+    
     "offices": [
         {
             "id": 1,
