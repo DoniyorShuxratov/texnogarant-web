@@ -2,125 +2,75 @@
     "products": [
         {
             "id": 1,
-            "productName": "Product Name 1",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
+            "productTypeByCompany": [
+                {
+                    "companyName": "Shivaki",
+                    "companyProducts": [
+                        {
+                            "name": "AHU",
+                            "companyProduct": [
+                                {
+                                    "name": "AHU-15-25",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/AHU-15-25_1.png",
+                                    "img2": "./images/AHU-15-25_2.png"
+                                },
+                                {
+                                    "name": "AHU-35-50",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/AHU-35-50_1.png",
+                                    "img2": "./images/AHU-35-50_2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chiller",
+                            "companyProduct": [
+                                {
+                                    "name": "CTX1-T65HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/CTX1-T65HF.png"
+                                },
+                                {
+                                    "name": "CTX1-T130HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/CTX1-T130HF.png"
+                                },
+                                {
+                                    "name": "CTX1-T260HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/CTX1-T260HF.png"
+                                },
+                                {
+                                    "name": "CTX1-T440HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/CTX1-T440HF.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": 2,
-            "productName": "Product Name 2",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
-        },
-        {
-            "id": 3,
-            "productName": "Product Name 3",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
-        },
-        {
-            "id": 4,
-            "productName": "Product Name 4",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
-        },
-        {
-            "id": 5,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
-        },
-        {
-            "id": 6,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
-        },
-        {
-            "id": 7,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
-        },
-        {
-            "id": 8,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
-        },
-        {
-            "id": 9,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png"
-        }
-    ],
-
-    "news": [
-        {
-            "id": 1,
-            "newsTitle": "News Title 1",
-            "newsSubTitle": "News sub Title",
-            "NewsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "newsImg": "./images/product_2.png"
-        },
-        {
-            "id": 2,
-            "newsTitle": "News Title 2",
-            "newsSubTitle": "News sub Title",
-            "NewsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "newsImg": "./images/product_2.png"
-        },
-        {
-            "id": 3,
-            "newsTitle": "News Title 3",
-            "newsSubTitle": "News sub Title",
-            "NewsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "newsImg": "./images/product_2.png"
-        },
-        {
-            "id": 4,
-            "newsTitle": "News Title 4",
-            "newsSubTitle": "News sub Title",
-            "NewsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "newsImg": "./images/product_2.png"
-        },
-        {
-            "id": 5,
-            "newsTitle": "News Title",
-            "newsSubTitle": "News sub Title",
-            "NewsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "newsImg": "./images/product_2.png"
-        },
-        {
-            "id": 6,
-            "newsTitle": "News Title",
-            "newsSubTitle": "News sub Title",
-            "NewsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "newsImg": "./images/product_2.png"
-        },
-        {
-            "id": 7,
-            "newsTitle": "News Title",
-            "newsSubTitle": "News sub Title",
-            "NewsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "newsImg": "./images/product_2.png"
-        },
-        {
-            "id": 8,
-            "newsTitle": "News Title",
-            "newsSubTitle": "News sub Title",
-            "NewsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "newsImg": "./images/product_2.png"
+            "productTypeByCompany": [
+                {
+                    "companyName": "Водогрениые котлы",
+                    "companyProducts": [
+                        {   "name": "AHU",
+                            "companyProduct": [
+                                {
+                                    "name": "AHU-15-25",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/AHU-15-25_1.png",
+                                    "img2": "./images/AHU-15-25_2.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "offices": [
