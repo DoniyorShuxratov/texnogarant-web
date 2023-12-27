@@ -10,22 +10,16 @@ export default function OurProduct() {
                 <button>Смотреть все</button>
             </div>
             <div className="intro--product--container container">
-                {data?.products?.map((item, i) => (
-                    <button
-                        style={{
-                            backgroundImage: `linear-gradient(0deg, var(--primary-with-opacity) 0%, var(--primary-with-opacity) 50%), url(${item.productTypeBy?.img1})`,
-                        }}
-                        key={i}
-                        className="intro--product--card"
-                    >
+                {data?.products?.map((item, i)=>(
+                    <button key={i}>
                         <div className="card--title">
-                            <h3>{item.productTypeBy?.name}</h3>
+                            <h3>{item.productName}</h3>
                         </div>
                         <div className="card--sub">
                             <TopRightArrow />
                         </div>
                     </button>
-                ))}
+                ))}   
             </div>
         </section>
     );
