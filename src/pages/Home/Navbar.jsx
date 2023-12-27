@@ -1,21 +1,25 @@
+import { useEffect, useState } from 'react'
 import {Logo} from '../../icons/logo'
-import { useState } from 'react';
 export default function Navbar() {
-    const [isOpen, setIsOpen] = useState(false);
+    const [isSmallScreen, setIsSmallScreen] = useState(false)
 
-    const toggleNav = () => {
-      setIsOpen(!isOpen);
-    };
-  
+    useEffect(() => {
+        const handleResize = () => {
+            setIsSmallScreen(window.innerWidth < 760)
+        }
+
+        window.addEventListener('resize', handleResize)
+
+        return () => {
+            window.removeEventListener('resize', handleResize)
+        }
+    }, [])
+
     return (
-        
-        <nav className={`navbar  ${isOpen ? 'open' : ''}`}>
+        <div className={`navbar ${isSmallScreen ? 'bottom-navbar' : ''}`}>
             <div className="navbar-container container">
                 <a href="/"><Logo/></a>
-                <button className='hamburger' onClick={toggleNav}>
-                    nav
-                </button>
-                <ul className={`navbar__nav ${isOpen ? 'open' : ''}`}>
+                <ul className='navbar__nav'>
                     <li className="navbar__nav--item">
                         <a href="/news">Новости</a>
                     </li>
@@ -33,7 +37,7 @@ export default function Navbar() {
                     </li>
                 </ul>
             </div>
-        </nav>
-
+            
+        </div>
     )
 }

@@ -142,11 +142,6 @@ h5 {
   color: #007bff;
 }
 
-.open {
-  display: block!important;
-  z-index: 2;
-}
-
 /* hero section */
 .mySwiper {
   height: 600px;

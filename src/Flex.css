@@ -18,13 +18,14 @@
     h5 {
         font-size: 18px!important; 
     }
-
-    .navbar__nav {
-        display: none!important;
-    }
     
-    .hamburger {
-        display: block!important;
+    .bottom-navbar {
+
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 5;
     }
 
     .navbar-container svg {
