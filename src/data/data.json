@@ -49,7 +49,7 @@
                             ]
                         },
                         {
-                            "name": "Cold Storag",
+                            "name": "Cold Storage",
                             "companyProduct": [
                                 {
                                     "name": "SHCSP-1250-HZ",
@@ -77,6 +77,227 @@
                                     "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
                                     "img1": "./images/SHCSP-0475-HZ_1.png",
                                     "img2": "./images/SHCSP-0475-HZ_2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Фанкоил",
+                            "companyProduct": [
+                                {
+                                    "name": "Хамер напольный",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/fancoil.png"
+                                },
+                                {
+                                    "name": "Фанкоил напольный",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/fancoil.png"
+                                },
+                                {
+                                    "name": "Хамер канальный",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/fancoil.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Канальный",
+                            "companyProduct": [
+                                {
+                                    "name": "SIH1-K100HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-K100HF_1.png",
+                                    "img2": "./images/SIH1-K100HF_2.png",
+                                    "img3": "./images/SIH1-K100HF_3.png"
+                                },
+                                {
+                                    "name": "SIH1-K60HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-K60HF_1.png",
+                                    "img2": "./images/SIH1-K60HF_2.png"
+                                },
+                                {
+                                    "name": "SIH1-K36HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-K36HF_1.png",
+                                    "img2": "./images/SIH1-K36HF_2.png"
+                                },
+                                {
+                                    "name": "SIH1-K18HE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-K18HE_1.png"
+                                },
+                                {
+                                    "name": "SIA1-K36BE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIA1-K36BE_1.png",
+                                    "img2": "./images/SIA1-K36BE_2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Касетный",
+                            "companyProduct": [
+                                {
+                                    "name": "SIH1-C18HE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-C18HE_1.png"
+                                },
+                                {
+                                    "name": "SIH1-C24HE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-C24HE_1.png"
+                                },
+                                {
+                                    "name": "SIH1-C36HE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-C36HE_1.png",
+                                    "img2": "./images/SIH1-C36HE_2.png"
+                                },
+                                {
+                                    "name": "SIH1-C48HE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-C48HE_1.png",
+                                    "img2": "./images/SIH1-C48HE_1.png",
+                                    "img3": "./images/SIH1-C48HE_1.png"
+                                },
+                                {
+                                    "name": "SIH1-C60HE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIH1-C60HE_1.png",
+                                    "img2": "./images/SIH1-C60HE_2.png",
+                                    "img3": "./images/SIH1-C60HE_3.png",
+                                    "img4": "./images/SIH1-C60HE_.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Колонный",
+                            "companyProduct": [
+                                {
+                                    "name": "SIA1-F100HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIA1-F100HF_1.png",
+                                    "img2": "./images/SIA1-F100HF_2.png"
+                                },
+                                {
+                                    "name": "SIA1-F48HF/SIA1-60HF",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIA1-F48HF-SIA1-60HF_1.png",
+                                    "img2": "./images/SIA1-F48HF-SIA1-60HF_2.png"
+                                },
+                                {
+                                    "name": "SIA1-F24HE/SIA1-F30HE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIA1-F24HE-SIA1-F30HE_1.png",
+                                    "img2": "./images/SIA1-F24HE-SIA1-F30HE_2.png"
+                                },
+                                {
+                                    "name": "SIA1-F24BE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SIA1-F24BE.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Мульти-сплит",
+                            "companyProduct": [
+                                {
+                                    "name": "MTA1-F18BE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/MTA1-F18BE.png"
+                                },
+                                {
+                                    "name": "MTA1-F27BE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/MTA1-F27BE.png"
+                                },
+                                {
+                                    "name": "MTA1-F42BE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/MTA1-F42BE.png"
+                                },
+                                {
+                                    "name": "MIA1-K09BE",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/MIA1-K09BE.png"
+                                },
+                                {
+                                    "name": "XD30B",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/XD30B.png"
+                                },
+                                {
+                                    "name": "YYK18-4B",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/YYK18-4B.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Сплит",
+                            "companyProduct": [
+                                {
+                                    "name": "ART-07MA",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/ART-07MA.png"
+                                },
+                                {
+                                    "name": "Artel-Montana",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/Artel-Montana_1.png",
+                                    "img2": "./images/Artel-Montana_2.png",
+                                    "img3": "./images/Artel-Montana_3.png",
+                                    "img4": "./images/Artel-Montana_4.png"
+                                },
+                                {
+                                    "name": "Artel-Gloriya",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/Artel-Gloriya.png",
+                                    "img2": "./images/Artel-Gloriya_1.png",
+                                    "img3": "./images/Artel-Gloriya_2.png",
+                                    "img4": "./images/Artel-Gloriya_3.png",
+                                    "img5": "./images/Artel-Gloriya_4.png"
+                                },
+                                {
+                                    "name": "Artel-Aurora",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/Artel-Aurora.png",
+                                    "img2": "./images/Artel-Aurora_1.png",
+                                    "img3": "./images/Artel-Aurora_2.png",
+                                    "img4": "./images/Artel-Aurora_3.png",
+                                    "img5": "./images/Artel-Aurora_4.png"
+                                },
+                                {
+                                    "name": "Artel-Shahrisabz",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/Artel-Shahrisabz.png",
+                                    "img2": "./images/Artel-Shahrisabz_1.png",
+                                    "img3": "./images/Artel-Shahrisabz_2.png"
+                                },
+                                {
+                                    "name": "Artel_Inverter",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/Artel-Inverter.png"
+                                },
+                                {
+                                    "name": "Artel-Iseberg",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/Artel-Iseberg.png"
+                                },
+                                {
+                                    "name": "Artel-Baraka",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/Artel-Baraka.png",
+                                    "img2": "./images/Artel-Baraka_1.png",
+                                    "img3": "./images/Artel-Baraka_2.png",
+                                    "img4": "./images/Artel-Baraka_3.png",
+                                    "img5": "./images/Artel-Baraka_4.png"
+                                },
+                                {
+                                    "name": "YYK18-4B",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/YYK18-4B.png"
                                 }
                             ]
                         }
