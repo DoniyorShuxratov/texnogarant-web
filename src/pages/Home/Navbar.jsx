@@ -31,7 +31,7 @@ export default function Navbar() {
                     </li>
                     <li className="navbar__nav--item">
                         <a href="/products">Продукция</a>
-                    </li>
+                    </li> 
                     <li className="navbar__nav--item">
                         <a href="/contact">Easy guide</a>
                     </li>
