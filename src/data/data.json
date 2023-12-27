@@ -47,6 +47,38 @@
                                     "img1": "./images/CTX1-T440HF.png"
                                 }
                             ]
+                        },
+                        {
+                            "name": "Cold Storag",
+                            "companyProduct": [
+                                {
+                                    "name": "SHCSP-1250-HZ",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SHCSP-1250-HZ_1.png",
+                                    "img2": "./images/SHCSP-1250-HZ_2.png",
+                                    "img3": "./images/SHCSP-1250-HZ_3.png"
+                                },
+                                {
+                                    "name": "SHCSP-0670-HZ",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SHCSP-0670-HZ_1.png",
+                                    "img2": "./images/SHCSP-0670-HZ_2.png",
+                                    "img3": "./images/SHCSP-0670-HZ_3.png"
+                                },
+                                {
+                                    "name": "SHCSP-0385-HZ",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SHCSP-0385-HZ_1.png",
+                                    "img2": "./images/SHCSP-0385-HZ_2.png",
+                                    "img3": "./images/SHCSP-0385-HZ_3.png"
+                                },
+                                {
+                                    "name": "SHCSP-0475-HZ",
+                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+                                    "img1": "./images/SHCSP-0475-HZ_1.png",
+                                    "img2": "./images/SHCSP-0475-HZ_2.png"
+                                }
+                            ]
                         }
                     ]
                 }
