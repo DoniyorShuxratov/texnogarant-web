@@ -1,5 +1,11 @@
 import { useEffect, useState } from 'react'
 import {Logo} from '../../icons/logo'
+import { MobLogo } from '../../icons/icon_mob'
+import { IoNewspaper } from "react-icons/io5";
+import { IoMdContact } from "react-icons/io";
+import { FaLocationDot } from "react-icons/fa6";
+import { FaShoppingCart } from "react-icons/fa";
+
 export default function Navbar() {
     const [isSmallScreen, setIsSmallScreen] = useState(false)
 
@@ -7,9 +13,11 @@ export default function Navbar() {
         const handleResize = () => {
             setIsSmallScreen(window.innerWidth < 760)
         }
-
+   
+        handleResize();
+    
         window.addEventListener('resize', handleResize)
-
+    
         return () => {
             window.removeEventListener('resize', handleResize)
         }
@@ -37,7 +45,23 @@ export default function Navbar() {
                     </li>
                 </ul>
             </div>
-            
+            <div className="bottom--container container">
+            <a href="/"><MobLogo/></a>
+                <ul className='navbar__nav'>
+                    <li className="navbar__nav--item">
+                        <a href="/news"><IoNewspaper fill='white' size={25}/></a>
+                    </li>
+                    <li className="navbar__nav--item">
+                        <a href="/offices"><IoMdContact fill='white' size={25}/></a>
+                    </li>
+                    <li className="navbar__nav--item">
+                        <a href="/dislocation"><FaLocationDot fill='white' size={25}/></a>
+                    </li>
+                    <li className="navbar__nav--item">
+                        <a href="/products"><FaShoppingCart fill='white' size={25}/></a>
+                    </li> 
+                </ul>
+            </div>
         </div>
     )
 }
