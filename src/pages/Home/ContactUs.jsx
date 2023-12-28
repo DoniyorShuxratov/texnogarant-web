@@ -11,9 +11,6 @@ export default function Contact() {
                     <h1>Контакт</h1>
                 </div>
             <div className="contact--container container">
-
-                
-
                 <div className="contact--field">
                     <div className="contact--field-phone">
                         <h4>Телефон</h4>

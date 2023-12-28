@@ -1,11 +1,8 @@
-import data from '../../data/data.json';
+import data from '../../data/news.json';
 import {useNavigate} from 'react-router-dom'
 
 const news = data?.news || [];
 const introNews = news.slice(0,6)
-
-
-
 
 export default function News(){
     const navigate = useNavigate();

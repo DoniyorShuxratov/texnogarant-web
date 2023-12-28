@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import data from '../../data/data.json'
+import data from '../../data/dislocation.json'
 import { TopRightArrow } from '../../icons/top-right-arrow'
 
 export default function DislocationMaingreed() {

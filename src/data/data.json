@@ -306,7 +306,7 @@
                                     "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
                                     "img1": "./images/Artel-Everest-Inverter.png",
                                     "img2": "./images/Artel-Everest-Inverter_1.png",
-                                    "img3": "./images/Artel-Everest-Inverter_2.png"
+                                    "img3": "./images/Artel-Everest-Inverter_1.png"
                                 }
                             ]
                         }
@@ -316,359 +316,67 @@
         },
         {
             "id": 2,
-            "productTypeByCompany": [
-                {
-                    "companyName": "Водогрениые котлы",
-                    "companyProducts": [
-                        {   "name": "AHU",
-                            "companyProduct": [
-                                {
-                                    "name": "AHU-15-25",
-                                    "subName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
-                                    "img1": "./images/AHU-15-25_1.png",
-                                    "img2": "./images/AHU-15-25_2.png"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "offices": [
-        {
-            "id": 1,
-            "holder": "someholder",
-            "details": {
-                "email": "someemail",
-                "position": "director",
-                "name": "name"
-            }
-        },
-        {
-            "id": 2,
-            "holder": "holder2",
-            "details": {
-                "email": "email2",
-                "position": "position2",
-                "name": "name2"
-            }
+            "productName": "Product Name 2",
+            "productSubName": "Lorem ipsum",
+            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgSrc": "./images/product_2.png",
+            "company": "Company Name 2"
         },
         {
             "id": 3,
-            "holder": "holder3",
-            "details": {
-                "email": "email3",
-                "position": "position3",
-                "name": "name3"
-            }
+            "productName": "Product Name 3",
+            "productSubName": "Lorem ipsum",
+            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgSrc": "./images/product_2.png",
+            "company": "Company Name 3"
         },
         {
             "id": 4,
-            "holder": "holder4",
-            "details": {
-                "email": "email4",
-                "position": "position4",
-                "name": "name4"
-            }
+            "productName": "Product Name 4",
+            "productSubName": "Lorem ipsum",
+            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgSrc": "./images/product_2.png",
+            "company": "Company Name 4"
         },
         {
             "id": 5,
-            "holder": "holder5",
-            "details": {
-                "email": "email5",
-                "position": "position5",
-                "name": "name5"
-            }
+            "productName": "Product Name",
+            "productSubName": "Lorem ipsum",
+            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgSrc": "./images/product_2.png",
+            "company": "Company Name 5"
         },
         {
             "id": 6,
-            "holder": "holder6",
-            "details": {
-                "email": "email6",
-                "position": "position6",
-                "name": "name6"
-            }
+            "productName": "Product Name",
+            "productSubName": "Lorem ipsum",
+            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgSrc": "./images/product_2.png",
+            "company": "Company Name 6"
         },
         {
             "id": 7,
-            "holder": "holder7",
-            "details": {
-                "email": "email7",
-                "position": "position7",
-                "name": "name7"
-            }
+            "productName": "Product Name",
+            "productSubName": "Lorem ipsum",
+            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgSrc": "./images/product_2.png",
+            "company": "Company Name 7"
         },
         {
             "id": 8,
-            "holder": "holder8",
-            "details": {
-                "email": "email8",
-                "position": "position8",
-                "name": "name8"
-            }
+            "productName": "Product Name",
+            "productSubName": "Lorem ipsum",
+            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgSrc": "./images/product_2.png",
+            "company": "Company Name 8"
         },
         {
             "id": 9,
-            "holder": "holder9",
-            "details": {
-                "email": "email9",
-                "position": "position9",
-                "name": "name9"
-            }
-        },
-
-        {
-            "id": 10,
-            "holder": "holder10",
-            "details": {
-                "email": "email10",
-                "position": "position10",
-                "name": "name10"
-            }
-        }
-    ],
-    "dislocation": [
-        {
-            "id": 1,
-            "place": "Tashkent",
-            "subInfo": {
-                "adress": "г. Ташкент, Яшнабадский район, ул. Эльбек, дом 61",
-                "landmark": "Станция метро Дустлик, бывшая станция метро Чкалова",
-                "workingTime": "Пон-Суб. 09:00-18:00"
-            },
-            "categories": {
-                "typeOfProduct": "Лифты и Эсколаторы",
-                "listOfWorkers": [
-
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    }
-                ]
-            }
-        },
-        {
-            "id": 2,
-            "place": "Наманган",
-            "subInfo": {
-                "adress": "г. Ташкент, Яшнабадский район, ул. Эльбек, дом 61",
-                "landmark": "Станция метро Дустлик, бывшая станция метро Чкалова",
-                "workingTime": "Пон-Суб. 09:00-18:00"
-            },
-            "categories": [
-                {
-                    "typeOfProduct": "Лифты и Эскалаторы",
-                    "listOfWorkers": [
-                        {
-                            "name": "Ахмадалиев Зохид",
-                            "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                            "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                            "phone": "+998 (93) 380 33 53"
-                        },
-                        {
-                            "name": "Иванов Иван",
-                            "typeWork": "Инженер по лифтам",
-                            "project": "Проект ABC (лифты)",
-                            "phone": "+998 (93) 123 45 67"
-                        }
-                    ]
-                },
-                {
-                    "typeOfProduct": "Вентиляция и Кондиционирование",
-                    "listOfWorkers": [
-                        {
-                            "name": "Петров Петр",
-                            "typeWork": "Главный инженер по вентиляции",
-                            "project": "Проект XYZ (вентиляция и кондиционирование)",
-                            "phone": "+998 (93) 987 65 43"
-                        },
-                        {
-                            "name": "Сидорова Анна",
-                            "typeWork": "Специалист по обслуживанию кондиционеров",
-                            "project": "Проект DEF (кондиционирование)",
-                            "phone": "+998 (93) 111 22 33"
-                        }
-                    ]
-                },
-                {
-                    "typeOfProduct": "Электротехника",
-                    "listOfWorkers": [
-                        {
-                            "name": "Смирнов Сергей",
-                            "typeWork": "Электрик",
-                            "project": "Проект UVW (электротехника)",
-                            "phone": "+998 (93) 555 44 33"
-                        },
-                        {
-                            "name": "Ковалева Елена",
-                            "typeWork": "Инженер-электронщик",
-                            "project": "Проект GHI (электроника)",
-                            "phone": "+998 (93) 222 33 44"
-                        }
-                    ]
-                },
-                {
-                    "typeOfProduct": "Строительные Материалы",
-                    "listOfWorkers": [
-                        {
-                            "name": "Григорьев Григорий",
-                            "typeWork": "Директор по строительным материалам",
-                            "project": "Проект LMN (строительные материалы)",
-                            "phone": "+998 (93) 777 88 99"
-                        },
-                        {
-                            "name": "Орлов Олег",
-                            "typeWork": "Менеджер по продажам стройматериалов",
-                            "project": "Проект OPQ (продажа стройматериалов)",
-                            "phone": "+998 (93) 999 00 11"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "place": "Андижан",
-            "subInfo": {
-                "adress": "г. Ташкент, Яшнабадский район, ул. Эльбек, дом 61",
-                "landmark": "Станция метро Дустлик, бывшая станция метро Чкалова",
-                "workingTime": "Пон-Суб. 09:00-18:00"
-            },
-            "categories": {
-                "typeOfProduct": "Лифты и Эсколаторы",
-                "listOfWorkers": [
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    }
-                ]
-            }
-        },
-        {
-            "id": 4,
-            "place": "Хорезм",
-            "subInfo": {
-                "adress": "г. Ташкент, Яшнабадский район, ул. Эльбек, дом 61",
-                "landmark": "Станция метро Дустлик, бывшая станция метро Чкалова",
-                "workingTime": "Пон-Суб. 09:00-18:00"
-            },
-            "categories": {
-                "typeOfProduct": "Лифты и Эсколаторы",
-                "listOfWorkers": [
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    }
-                ]
-            }
-        },
-        {
-            "id": 5,
-            "place": "Джизах",
-            "subInfo": {
-                "adress": "г. Ташкент, Яшнабадский район, ул. Эльбек, дом 61",
-                "landmark": "Станция метро Дустлик, бывшая станция метро Чкалова",
-                "workingTime": "Пон-Суб. 09:00-18:00"
-            },
-            "categories": {
-                "typeOfProduct": "Лифты и Эсколаторы",
-                "listOfWorkers": [
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    }
-                ]
-            }
-        },
-        {
-            "id": 6,
-            "place": "Бухара",
-            "subInfo": {
-                "adress": "г. Ташкент, Яшнабадский район, ул. Эльбек, дом 61",
-                "landmark": "Станция метро Дустлик, бывшая станция метро Чкалова",
-                "workingTime": "Пон-Суб. 09:00-18:00"
-            },
-            "categories": {
-                "typeOfProduct": "Лифты и Эсколаторы",
-                "listOfWorkers": [
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    },
-                    {
-                        "name": "Ахмадалиев Зохид",
-                        "typeWork": "Заместитель директора по лифтам и эскалаторам",
-                        "project": "Osten, Mitsubishi и Другие (лифты и эскалаторы)",
-                        "phone": "+998 (93) 380 33 53"
-                    }
-                ]
-            }
+            "productName": "Product Name",
+            "productSubName": "Lorem ipsum",
+            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgSrc": "./images/product_2.png",
+            "company": "Company Name 9"
         }
     ]
-      
 }
