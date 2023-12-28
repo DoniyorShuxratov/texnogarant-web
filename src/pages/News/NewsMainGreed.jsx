@@ -1,4 +1,4 @@
-import data from '../../data/data.json';
+import data from '../../data/news.json';
 import {useNavigate} from 'react-router-dom'
 
 export default function NewsMainGreed() {

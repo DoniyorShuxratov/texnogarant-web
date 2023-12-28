@@ -11,7 +11,6 @@ export default function ProductMainGrid() {
         navigate('/product-screen', { state: product });
     }
 
-    // Функция фильтрации продуктов по компании
     const filterProductsByCompany = (product) => {
         return selectedCompany ? product.company === selectedCompany : true;
     }

@@ -1,3 +1,5 @@
+@import url(Flex.css);
+
 /* global style */
 *{
   margin: 0;
@@ -492,6 +494,7 @@ h5 {
   font-size: 0.9em;
   min-width: 400px;
 }
+
 
 .locatescreen--contant-workers table {
   width: 100%;
