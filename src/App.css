@@ -1,7 +1,4 @@
 /* global style */
-
-@import url(Flex.css);
-
 *{
   margin: 0;
   padding: 0;
@@ -203,7 +200,6 @@ h5 {
   flex-wrap: wrap;
   gap: 25px;
   padding-bottom: 25px;
-  
 }
 
 .intro--product--container > button {
@@ -214,12 +210,12 @@ h5 {
 .intro--product--card {
   padding: 20px;
   display: flex;
-  gap: 30px;
   flex-direction: column;
   align-items: flex-end;
   justify-content: space-between;
   background: linear-gradient(0deg, var(--primary-with-opacity) 0%, var(--primary-with-opacity) 50%), url('../public/images/product_2.png'), var(--primary) 100% / cover no-repeat;
-  flex-basis: calc(25% - 25px);
+  height: 280px;
+  width: 280px;
 }
 
 .product--screen {
@@ -522,4 +518,3 @@ h5 {
 .locatescreen--contant-workers tbody tr:last-of-type {
   border-bottom: 2px solid #000;
 }
-
