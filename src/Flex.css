@@ -29,9 +29,11 @@
     }
 
     .bottom-navbar > .bottom--container{
-        display: flex;
+        display: flex!important;
         justify-content: space-between;
-        align-items: center;
+        align-items: stretch;
+        flex-wrap: wrap;
+        flex-direction: column;
     }
 
     .bottom-navbar > .navbar-container {
@@ -39,7 +41,8 @@
     }
 
     .bottom--container > .navbar__nav {
-        gap: 25px;
+        gap: 25px!important;
+        
     }
 
     .navbar-container svg {
