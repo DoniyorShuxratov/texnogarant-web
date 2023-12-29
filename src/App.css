@@ -89,6 +89,10 @@ h5 {
   padding-top: 50px;
 }
 
+.section-title *{
+  width: 50%;
+}
+
 .section-title > button {
   font-size: 28px;
   font-style: normal;
@@ -128,6 +132,7 @@ h5 {
 .navbar__nav {
   display: flex;
   list-style: none;
+  flex-wrap: wrap;
   padding: 0;
   margin: 0;
 }
@@ -205,6 +210,7 @@ h5 {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  align-items: center;
   gap: 25px;
   padding-bottom: 25px;
 }
@@ -217,6 +223,7 @@ h5 {
 .intro--product--card {
   padding: 20px;
   display: flex;
+  gap: 50px;
   flex-direction: column;
   align-items: flex-end;
   justify-content: space-between;
@@ -236,6 +243,21 @@ h5 {
   display: flex;
   align-items: center;
   gap: 100px;
+} 
+
+.company-filter {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+} 
+
+.company-filter > select {
+  font-family: 'Montserrat';
+  background-color: var(--primary);
+  color: var(--white);
+  border: none;
+  padding: 10px 15px;  
 }
 
 /* news intro style */
@@ -266,7 +288,7 @@ h5 {
 }
 
 .news--card--img > img {
-  width: 260PX;
+  width: 100%;
   height: 170px;
   object-fit: cover;
 }
@@ -366,7 +388,7 @@ h5 {
 }
 
 .footer--section-container {
-  padding: 50px 0;
+  padding: 70px 0;
   gap: 50px ;
   display: flex;
   flex-direction: column;
@@ -449,6 +471,10 @@ h5 {
   padding: 10px;
   width: 380px;
   justify-content: space-between;
+}
+
+.dislocation--card > svg {
+  width: 25px;
 }
 
 .locatescreen--section {

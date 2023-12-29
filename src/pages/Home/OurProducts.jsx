@@ -14,7 +14,7 @@ export default function OurProduct() {
     return(
         <section className="intro--product--section">
             <div className="section-title container">
-                <h1>Наша продукция</h1>
+                <h2>Наша продукция</h2>
                 <button>Смотреть все</button>
             </div>
             <div className="intro--product--container container">

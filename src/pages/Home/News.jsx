@@ -15,7 +15,7 @@ export default function News(){
         <section className="intro--news--section">
             <div className="intro--news--container container">
                 <div className="section-title">
-                    <h1>Новости</h1>
+                    <h2>Новости</h2>
                     <button>Смотреть все</button>
                 </div>
                 <div className="news--cards">
