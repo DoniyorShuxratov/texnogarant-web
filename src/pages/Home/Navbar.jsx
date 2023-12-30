@@ -46,8 +46,10 @@ export default function Navbar() {
                 </ul>
             </div>
             <div className="bottom--container container">
-            <a href="/"><MobLogo/></a>
                 <ul className='navbar__nav'>
+                    <li className="navbar__nav--item">
+                        <a href="/"><MobLogo/></a>
+                    </li>
                     <li className="navbar__nav--item">
                         <a href="/news"><IoNewspaper fill='white' size={25}/></a>
                     </li>

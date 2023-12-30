@@ -25,6 +25,7 @@ export default function ProductMainGrid() {
                 <h1>Наша продукция</h1>
             </div>
             <div className="company-filter container">
+                <span>Выберите компанию:</span>
                 <select id="companySelect" onChange={(e) => handleCompanyChange(e.target.value)}>
                     <option value="">Все компании</option>
                     {data.products.map((product) => (

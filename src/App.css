@@ -89,9 +89,14 @@ h5 {
   padding-top: 50px;
 }
 
+.section-title *{
+  width: 50%;
+}
+
 .section-title > button {
   font-size: 28px;
   font-style: normal;
+  text-align: end;
   font-weight: 700;
   line-height: normal;
   text-decoration-line: underline;
@@ -127,14 +132,12 @@ h5 {
 
 .navbar__nav {
   display: flex;
+  justify-content: space-around;
   list-style: none;
-  padding: 0;
-  margin: 0;
+  flex-wrap: wrap;
+  gap: 25px;
 }
 
-.navbar__nav--item {
-  margin-right: 1rem;
-}
 
 .navbar__nav--item a {
   text-decoration: none;
@@ -205,6 +208,7 @@ h5 {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  align-items: center;
   gap: 25px;
   padding-bottom: 25px;
 }
@@ -217,6 +221,7 @@ h5 {
 .intro--product--card {
   padding: 20px;
   display: flex;
+  gap: 50px;
   flex-direction: column;
   align-items: flex-end;
   justify-content: space-between;
@@ -236,6 +241,21 @@ h5 {
   display: flex;
   align-items: center;
   gap: 100px;
+} 
+
+.company-filter {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+} 
+
+.company-filter > select {
+  font-family: 'Montserrat';
+  background-color: var(--primary);
+  color: var(--white);
+  border: none;
+  padding: 10px 15px;  
 }
 
 /* news intro style */
@@ -247,6 +267,7 @@ h5 {
 }
 
 .news--cards {
+
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 25px;
@@ -261,12 +282,13 @@ h5 {
 }
 
 .news--card {
+  width: 100%;
   display: flex;
   flex-direction: column;
 }
 
 .news--card--img > img {
-  width: 260PX;
+  width: 100%;
   height: 170px;
   object-fit: cover;
 }
@@ -366,7 +388,7 @@ h5 {
 }
 
 .footer--section-container {
-  padding: 50px 0;
+  padding: 70px 0;
   gap: 50px ;
   display: flex;
   flex-direction: column;
@@ -449,6 +471,10 @@ h5 {
   padding: 10px;
   width: 380px;
   justify-content: space-between;
+}
+
+.dislocation--card > svg {
+  width: 25px;
 }
 
 .locatescreen--section {
