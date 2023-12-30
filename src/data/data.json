@@ -24,33 +24,37 @@
             "id": 3,
             "productName": "CTX1-T65HF",
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
-            "productDescription": "./images/CTX1-T65HF_table.png",
-            "imgSrc1": "./images/CTX1-T65HF.png",
-            "company": "Чиллер"
+            "productDescription": "./image/CTX1-T65HF_table.png",
+            "imgSrc": "./images/CTX1-T65HF.png",
+            "company": "Shivaki",
+            "productType": "Чиллер"
         },
         {
             "id": 4,
             "productName": "CTX1-T130HF",
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
-            "productDescription": "./images/CTX1-T130HF_table.png",
-            "imgSrc1": "./images/CTX1-T130HF.png",
-            "company": "Чиллер"
+            "productDescription": "./image/CTX1-T130HF_table.png",
+            "imgSrc": "./images/CTX1-T130HF.png",
+            "company": "Shivaki",
+            "productType": "Чиллер"
         },
         {
             "id": 5,
             "productName": "CTX1-T260HF",
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
-            "productDescription": "./images/CTX1-T260HF_table.png",
-            "imgSrc1": "./images/CTX1-T260HF.png",
-            "company": "Чиллер"
+            "productDescription": "./image/CTX1-T260HF_table.png",
+            "imgSrc": "./images/CTX1-T260HF.png",
+            "company": "Shivaki",
+            "productType": "Чиллер"
         },
         {
             "id": 6,
             "productName": "CTX1-T440HF",
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
-            "productDescription": "./images/CTX1-T440HF_table.png",
-            "imgSrc1": "./images/CTX1-T440HF.png",
-            "company": "Чиллер"
+            "productDescription": "./image/CTX1-T440HF_table.png",
+            "imgSrc": "./images/CTX1-T440HF.png",
+            "company": "Shivaki",
+            "productType": "Чиллер"
         },
         {
             "id": 7,
@@ -60,7 +64,8 @@
             "imgSrc1": "./images/SHCSP-1250-HZ_1.jpg",
             "imgSrc2": "./images/SHCSP-1250-HZ_2.jpg",
             "imgSrc3": "./images/SHCSP-1250-HZ_3.jpg",
-            "company": "Cold Storage"
+            "company": "Shivaki",
+            "productType": "Cold Storage"
         },
         {
             "id": 7,
@@ -70,7 +75,8 @@
             "imgSrc1": "./images/SHCSP-0670-HZ_1.jpg",
             "imgSrc2": "./images/SHCSP-0670-HZ_2.jpg",
             "imgSrc3": "./images/SHCSP-0670-HZ_3.jpg",
-            "company": "Cold Storage"
+            "company": "Shivaki",
+            "productType": "Cold Storage"
         },
         {
             "id": 8,
@@ -80,7 +86,8 @@
             "imgSrc1": "./images/SHCSP-0385-HZ_1.jpg",
             "imgSrc2": "./images/SHCSP-0385-HZ_2.jpg",
             "imgSrc3": "./images/SHCSP-0385-HZ_3.jpg",
-            "company": "Cold Storage"
+            "company": "Shivaki",
+            "productType": "Cold Storage"
         },
         {
             "id": 9,
@@ -89,7 +96,8 @@
             "productDescription": "./images/SHCSP-0475-HZ_table.png",
             "imgSrc1": "./images/SHCSP-0475-HZ_1.jpg",
             "imgSrc2": "./images/SHCSP-0475-HZ_2.jpg",
-            "company": "Cold Storage"
+            "company": "Shivaki",
+            "productType": "Cold Storage"
         },
         {
             "id": 10,
@@ -98,7 +106,8 @@
             "productDescription": "./images/Хуммер_table.png",
             "imgSrc1": "./images/.jpg",
             "imgSrc2": "./images/.jpg",
-            "company": "Фанкоил"
+            "company": "Shivaki",
+            "productType": "Фанкоил"
         },
         {
             "id": 11,
@@ -107,7 +116,8 @@
             "productDescription": "./images/_table.png",
             "imgSrc1": "./images/.jpg",
             "imgSrc2": "./images/.jpg",
-            "company": "Фанкоил"
+            "company": "Shivaki",
+            "productType": "Фанкоил"
         },
         {
             "id": 12,
@@ -116,7 +126,8 @@
             "productDescription": "./images/_table.png",
             "imgSrc1": "./images/.jpg",
             "imgSrc2": "./images/.jpg",
-            "company": "Фанкоил"
+            "company": "Shivaki",
+            "productType": "Фанкоил"
         },
         {
             "id": 13,
@@ -126,7 +137,8 @@
             "imgSrc1": "./images/SIH1-K100HF_1.png",
             "imgSrc2": "./images/SIH1-K100HF_2.jpg",
             "imgSrc3": "./images/SIH1-K100HF_2.jpg",
-            "company": "Канальный"
+            "company": "Shivaki",
+            "productType": "Канальный"
         },
         {
             "id": 14,
@@ -135,7 +147,8 @@
             "productDescription": "./images/SIH1-K60HF_table.png",
             "imgSrc1": "./images/SIH1-K60HF_1.jpg",
             "imgSrc2": "./images/SIH1-K60HF_2.jpg",
-            "company": "Канальный"
+            "company": "Shivaki",
+            "productType": "Канальный"
         },
         {
             "id": 15,
@@ -144,7 +157,8 @@
             "productDescription": "./images/SIH1-K36HF_table.png",
             "imgSrc1": "./images/SIH1-K36HF_1.png",
             "imgSrc2": "./images/SIH1-K36HF_2.jpg",
-            "company": "Канальный"
+            "company": "Shivaki",
+            "productType": "Канальный"
         },
         {
             "id": 16,
@@ -152,7 +166,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/SIH1-K18HE_table.png",
             "imgSrc1": "./images/SHCSP-0475-HZ_1.jpg",
-            "company": "Канальный"
+            "company": "Shivaki",
+            "productType": "Канальный"
         },
         {
             "id": 17,
@@ -161,7 +176,8 @@
             "productDescription": "./images/SIA1-K36BE_table.png",
             "imgSrc1": "./images/SIA1-K36BE_1.png",
             "imgSrc2": "./images/SIA1-K36BE_2.jpg",
-            "company": "Канальный"
+            "company": "Shivaki",
+            "productType": "Канальный"
         },
         {
             "id": 18,
@@ -169,7 +185,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/SIH1-C18HE_table.png",
             "imgSrc1": "./images/SIH1-C18HE_1.jpg",
-            "company": "Кассетный"
+            "company": "Shivaki",
+            "productType": "Кассетный"
         },
         {
             "id": 19,
@@ -177,7 +194,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/SIH1-C24HE_table.png",
             "imgSrc1": "./images/SIH1-C24HE_1.jpg",
-            "company": "Кассетный"
+            "company": "Shivaki",
+            "productType": "Кассетный"
         },
         {
             "id": 20,
@@ -186,7 +204,8 @@
             "productDescription": "./images/SIH1-C36HE_table.png",
             "imgSrc1": "./images/SIH1-C36HE_1.png",
             "imgSrc2": "./images/SIH1-C36HE_2.jpg",
-            "company": "Кассетный"
+            "company": "Shivaki",
+            "productType": "Кассетный"
         },
         {
             "id": 21,
@@ -196,7 +215,8 @@
             "imgSrc1": "./images/SIH1-C48HE_1.jpg",
             "imgSrc2": "./images/SIH1-C48HE_2.jpg",
             "imgSrc3": "./images/SIH1-C48HE_3.jpg",
-            "company": "Кассетный"
+            "company": "Shivaki",
+            "productType": "Кассетный"
         },
         {
             "id": 22,
@@ -207,7 +227,8 @@
             "imgSrc2": "./images/SIH1-C60HE_2.jpg",
             "imgSrc3": "./images/SIH1-C60HE_1.jpg",
             "imgSrc4": "./images/SIH1-C60HE_2.jpg",
-            "company": "Кассетный"
+            "company": "Shivaki",
+            "productType": "Кассетный"
         },
         {
             "id": 23,
@@ -216,7 +237,8 @@
             "productDescription": "./images/SIA1-F100HF_table.png",
             "imgSrc1": "./images/SIA1-F100HF_1.jpg",
             "imgSrc2": "./images/SIA1-F100HF_2.jpg",
-            "company": "Колонный"
+            "company": "Shivaki",
+            "productType": "Колонный"
         },
         {
             "id": 24,
@@ -225,7 +247,8 @@
             "productDescription": "./images/SIA1-F48HF-SIA1-60HF_table.png",
             "imgSrc1": "./images/SIA1-F48HF-SIA1-60HF_1.jpg",
             "imgSrc2": "./images/SIA1-F48HF-SIA1-60HF_2.jpg",
-            "company": "Колонный"
+            "company": "Shivaki",
+            "productType": "Колонный"
         },
         {
             "id": 25,
@@ -234,7 +257,8 @@
             "productDescription": "./images/SIA1-F24HE-SIA1-F30HE_table.png",
             "imgSrc1": "./images/SIA1-F24HE-SIA1-F30HE_1.jpg",
             "imgSrc2": "./images/SIA1-F24HE-SIA1-F30HE_2.jpg",
-            "company": "Колонный"
+            "company": "Shivaki",
+            "productType": "Колонный"
         },
         {
             "id": 26,
@@ -242,7 +266,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/SIA1-F24BE_table.png",
             "imgSrc1": "./images/SIA1-F24BE.jpg",
-            "company": "Колонный"
+            "company": "Shivaki",
+            "productType": "Колонный"
         },
         {
             "id": 27,
@@ -250,7 +275,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/MTA1-F18BE_table.png",
             "imgSrc1": "./images/MTA1-F18BE.png",
-            "company": "Мульти-Сплит"
+            "company": "Shivaki",
+            "productType": "Мульти-Сплит"
         },
         {
             "id": 28,
@@ -258,7 +284,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/MTA1-F27BE_table.png",
             "imgSrc1": "./images/MTA1-F27BE.png",
-            "company": "Мульти-Сплит"
+            "company": "Shivaki",
+            "productType": "Мульти-Сплит"
         },
         {
             "id": 29,
@@ -266,7 +293,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/MTA1-F42BE_table.png",
             "imgSrc1": "./images/MTA1-F42BE.png",
-            "company": "Мульти-Сплит"
+            "company": "Shivaki",
+            "productType": "Мульти-Сплит"
         },
         {
             "id": 30,
@@ -274,7 +302,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/MIA1-K09BE_table.png",
             "imgSrc1": "./images/MIA1-K09BE.png",
-            "company": "Мульти-Сплит"
+            "company": "Shivaki",
+            "productType": "Мульти-Сплит"
         },
         {
             "id": 31,
@@ -282,7 +311,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/_table.png",
             "imgSrc1": "./images/XD30B.png",
-            "company": "Мульти-Сплит"
+            "company": "Shivaki",
+            "productType": "Мульти-Сплит"
         },
         {
             "id": 32,
@@ -290,7 +320,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/YYK18-4B_table.png",
             "imgSrc1": "./images/YYK18-4B.jpg",
-            "company": "Мульти-Сплит"
+            "company": "Shivaki",
+            "productType": "Мульти-Сплит"
         },
         {
             "id": 33,
@@ -298,7 +329,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/Artel-07MA_table.png",
             "imgSrc1": "./images/Artel-07MA.jpg",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 34,
@@ -309,7 +341,8 @@
             "imgSrc2": "./images/Artel-Montana_2.jpg",
             "imgSrc3": "./images/Artel-Montana_3.png",
             "imgSrc4": "./images/Artel-Montana_4.png",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 35,
@@ -321,7 +354,8 @@
             "imgSrc3": "./images/Artel-Gloriya_2.jpg",
             "imgSrc4": "./images/Artel-Gloriya_3.png",
             "imgSrc5": "./images/Artel-Gloriya_4.png",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 36,
@@ -333,7 +367,8 @@
             "imgSrc3": "./images/Artel-Aurora_2.jpg",
             "imgSrc4": "./images/Artel-Aurora_3.png",
             "imgSrc5": "./images/Artel-Aurora_4.png",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 37,
@@ -343,7 +378,8 @@
             "imgSrc1": "./images/Artel-Shahrisabz.jpg",
             "imgSrc2": "./images/Artel-Shahrisabz_1.jpg",
             "imgSrc3": "./images/Artel-Shahrisabz_2.png",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 38,
@@ -351,7 +387,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/_table.png",
             "imgSrc1": "./images/Artel-Inverter.jpg",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 39,
@@ -359,7 +396,8 @@
             "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
             "productDescription": "./images/_table.png",
             "imgSrc1": "./images/Artel-Iseberg.jpg",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 40,
@@ -371,7 +409,8 @@
             "imgSrc3": "./images/Artel-Baraka_2.png",
             "imgSrc4": "./images/Artel-Baraka_3.png",
             "imgSrc5": "./images/Artel-Baraka_4.jpg",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 41,
@@ -381,7 +420,8 @@
             "imgSrc1": "./images/Artel-Everest.png",
             "imgSrc2": "./images/Artel-Everest_1.png",
             "imgSrc3": "./images/Artel-Everest_2.png",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         },
         {
             "id": 42,
@@ -391,7 +431,8 @@
             "imgSrc1": "./images/Artel-Everest-Inverter.png",
             "imgSrc2": "./images/Artel-Everest-Inverter_1.png",
             "imgSrc3": "./images/Artel-Everest-Inverter_2.png",
-            "company": "Сплит"
+            "company": "Shivaki",
+            "productType": "Сплит"
         }
     ]
 }
