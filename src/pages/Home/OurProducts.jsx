@@ -25,7 +25,11 @@ export default function OurProduct() {
             <div className="intro--product--container container">
                 {lengthFourProduct?.map((item, i) => (
                     <button
-                        style={{backgroundImage: `linear-gradient(0deg, var(--primary-with-opacity) 0%, var(--primary-with-opacity) 50%), url(${item.imgSrc})`,}}
+                        style={{
+                            backgroundImage: `linear-gradient(0deg, var(--primary-with-opacity) 0%, var(--primary-with-opacity) 50%), url(${item.imgSrc1})`,
+                            backgroundPosition: 'center',
+                            backgroundSize: 'cover',
+                        }}
                         key={i}
                         className="intro--product--card"
                         onClick={() => handleProductClick(item)}
