@@ -1,5 +1,6 @@
 import data from '../../data/news.json';
 import {useNavigate} from 'react-router-dom'
+import { IoIosArrowRoundForward } from "react-icons/io";
 
 const news = data?.news || [];
 const introNews = news.slice(0,6)
@@ -26,7 +27,7 @@ export default function News(){
                             </div>
                             <div className="news--card--content">
                                 <h4>{item.newsTitle}</h4>
-                                <button onClick={() => handleNewsClick(item)}>Читать дальше</button>
+                                <button className='news--card--content-btn' onClick={() => handleNewsClick(item)}>Читать дальше <IoIosArrowRoundForward size={25}/></button>
                             </div>
                         </div>
                     ))}
