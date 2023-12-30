@@ -89,6 +89,308 @@
             "imgSrc1": "./images/SHCSP-0475-HZ_1.jpg",
             "imgSrc2": "./images/SHCSP-0475-HZ_2.jpg",
             "company": "Cold Storage"
+        },
+        {
+            "id": 10,
+            "productName": "Хаммер-напольный",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/Хуммер_table.png",
+            "imgSrc1": "./images/.jpg",
+            "imgSrc2": "./images/.jpg",
+            "company": "Фанкоил"
+        },
+        {
+            "id": 11,
+            "productName": "Фанкоил-напольный",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/_table.png",
+            "imgSrc1": "./images/.jpg",
+            "imgSrc2": "./images/.jpg",
+            "company": "Фанкоил"
+        },
+        {
+            "id": 12,
+            "productName": "Фанкоил-канальный",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/_table.png",
+            "imgSrc1": "./images/.jpg",
+            "imgSrc2": "./images/.jpg",
+            "company": "Фанкоил"
+        },
+        {
+            "id": 13,
+            "productName": "SIH1-K100HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-K100HF_table.png",
+            "imgSrc1": "./images/SIH1-K100HF_1.png",
+            "imgSrc2": "./images/SIH1-K100HF_2.jpg",
+            "imgSrc3": "./images/SIH1-K100HF_2.jpg",
+            "company": "Канальный"
+        },
+        {
+            "id": 14,
+            "productName": "SIH1-K60HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-K60HF_table.png",
+            "imgSrc1": "./images/SIH1-K60HF_1.jpg",
+            "imgSrc2": "./images/SIH1-K60HF_2.jpg",
+            "company": "Канальный"
+        },
+        {
+            "id": 15,
+            "productName": "SIH1-K36HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-K36HF_table.png",
+            "imgSrc1": "./images/SIH1-K36HF_1.png",
+            "imgSrc2": "./images/SIH1-K36HF_2.jpg",
+            "company": "Канальный"
+        },
+        {
+            "id": 16,
+            "productName": "SIH1-K18HE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-K18HE_table.png",
+            "imgSrc1": "./images/SHCSP-0475-HZ_1.jpg",
+            "company": "Канальный"
+        },
+        {
+            "id": 17,
+            "productName": "SIA1-K36BE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIA1-K36BE_table.png",
+            "imgSrc1": "./images/SIA1-K36BE_1.png",
+            "imgSrc2": "./images/SIA1-K36BE_2.jpg",
+            "company": "Канальный"
+        },
+        {
+            "id": 18,
+            "productName": "SIH1-C18HE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-C18HE_table.png",
+            "imgSrc1": "./images/SIH1-C18HE_1.jpg",
+            "company": "Кассетный"
+        },
+        {
+            "id": 19,
+            "productName": "SIH1-C24HE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-C24HE_table.png",
+            "imgSrc1": "./images/SIH1-C24HE_1.jpg",
+            "company": "Кассетный"
+        },
+        {
+            "id": 20,
+            "productName": "SIH1-C36HE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-C36HE_table.png",
+            "imgSrc1": "./images/SIH1-C36HE_1.png",
+            "imgSrc2": "./images/SIH1-C36HE_2.jpg",
+            "company": "Кассетный"
+        },
+        {
+            "id": 21,
+            "productName": "SIH1-C48HE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-C48HE_table.png",
+            "imgSrc1": "./images/SIH1-C48HE_1.jpg",
+            "imgSrc2": "./images/SIH1-C48HE_2.jpg",
+            "imgSrc3": "./images/SIH1-C48HE_3.jpg",
+            "company": "Кассетный"
+        },
+        {
+            "id": 22,
+            "productName": "SIH1-C60HE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIH1-C60HE_table.png",
+            "imgSrc1": "./images/SIH1-C60HE_1.jpg",
+            "imgSrc2": "./images/SIH1-C60HE_2.jpg",
+            "imgSrc3": "./images/SIH1-C60HE_1.jpg",
+            "imgSrc4": "./images/SIH1-C60HE_2.jpg",
+            "company": "Кассетный"
+        },
+        {
+            "id": 23,
+            "productName": "SIA1-F100HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIA1-F100HF_table.png",
+            "imgSrc1": "./images/SIA1-F100HF_1.jpg",
+            "imgSrc2": "./images/SIA1-F100HF_2.jpg",
+            "company": "Колонный"
+        },
+        {
+            "id": 24,
+            "productName": "SIA1-F48HF-SIA1-60HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIA1-F48HF-SIA1-60HF_table.png",
+            "imgSrc1": "./images/SIA1-F48HF-SIA1-60HF_1.jpg",
+            "imgSrc2": "./images/SIA1-F48HF-SIA1-60HF_2.jpg",
+            "company": "Колонный"
+        },
+        {
+            "id": 25,
+            "productName": "SIA1-F24HE-SIA1-F30HE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIA1-F24HE-SIA1-F30HE_table.png",
+            "imgSrc1": "./images/SIA1-F24HE-SIA1-F30HE_1.jpg",
+            "imgSrc2": "./images/SIA1-F24HE-SIA1-F30HE_2.jpg",
+            "company": "Колонный"
+        },
+        {
+            "id": 26,
+            "productName": "SIA1-F24BE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/SIA1-F24BE_table.png",
+            "imgSrc1": "./images/SIA1-F24BE.jpg",
+            "company": "Колонный"
+        },
+        {
+            "id": 27,
+            "productName": "MTA1-F18BE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/MTA1-F18BE_table.png",
+            "imgSrc1": "./images/MTA1-F18BE.png",
+            "company": "Мульти-Сплит"
+        },
+        {
+            "id": 28,
+            "productName": "MTA1-F27BE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/MTA1-F27BE_table.png",
+            "imgSrc1": "./images/MTA1-F27BE.png",
+            "company": "Мульти-Сплит"
+        },
+        {
+            "id": 29,
+            "productName": "MTA1-F42BE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/MTA1-F42BE_table.png",
+            "imgSrc1": "./images/MTA1-F42BE.png",
+            "company": "Мульти-Сплит"
+        },
+        {
+            "id": 30,
+            "productName": "MIA1-K09BE",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/MIA1-K09BE_table.png",
+            "imgSrc1": "./images/MIA1-K09BE.png",
+            "company": "Мульти-Сплит"
+        },
+        {
+            "id": 31,
+            "productName": "XD30B",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/_table.png",
+            "imgSrc1": "./images/XD30B.png",
+            "company": "Мульти-Сплит"
+        },
+        {
+            "id": 32,
+            "productName": "YYK18-4B",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/YYK18-4B_table.png",
+            "imgSrc1": "./images/YYK18-4B.jpg",
+            "company": "Мульти-Сплит"
+        },
+        {
+            "id": 33,
+            "productName": "Artel-07MA",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/Artel-07MA_table.png",
+            "imgSrc1": "./images/Artel-07MA.jpg",
+            "company": "Сплит"
+        },
+        {
+            "id": 34,
+            "productName": "Artel-Montana",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/_table.png",
+            "imgSrc1": "./images/Artel-Montana_1.jpg",
+            "imgSrc2": "./images/Artel-Montana_2.jpg",
+            "imgSrc3": "./images/Artel-Montana_3.png",
+            "imgSrc4": "./images/Artel-Montana_4.png",
+            "company": "Сплит"
+        },
+        {
+            "id": 35,
+            "productName": "Artel-Gloriya",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/_table.png",
+            "imgSrc1": "./images/Artel-Gloriya.jpg",
+            "imgSrc2": "./images/Artel-Gloriya_1.jpg",
+            "imgSrc3": "./images/Artel-Gloriya_2.jpg",
+            "imgSrc4": "./images/Artel-Gloriya_3.png",
+            "imgSrc5": "./images/Artel-Gloriya_4.png",
+            "company": "Сплит"
+        },
+        {
+            "id": 36,
+            "productName": "Artel-Aurora",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/Artel-Aurora_table.png",
+            "imgSrc1": "./images/Artel-Aurora.jpg",
+            "imgSrc2": "./images/Artel-Aurora_1.jpg",
+            "imgSrc3": "./images/Artel-Aurora_2.jpg",
+            "imgSrc4": "./images/Artel-Aurora_3.png",
+            "imgSrc5": "./images/Artel-Aurora_4.png",
+            "company": "Сплит"
+        },
+        {
+            "id": 37,
+            "productName": "Artel-Shahrisabz",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/_table.png",
+            "imgSrc1": "./images/Artel-Shahrisabz.jpg",
+            "imgSrc2": "./images/Artel-Shahrisabz_1.jpg",
+            "imgSrc3": "./images/Artel-Shahrisabz_2.png",
+            "company": "Сплит"
+        },
+        {
+            "id": 38,
+            "productName": "Artel-Inverter",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/_table.png",
+            "imgSrc1": "./images/Artel-Inverter.jpg",
+            "company": "Сплит"
+        },
+        {
+            "id": 39,
+            "productName": "Artel-Iseberg",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/_table.png",
+            "imgSrc1": "./images/Artel-Iseberg.jpg",
+            "company": "Сплит"
+        },
+        {
+            "id": 40,
+            "productName": "Artel-Baraka",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/Artel-Baraka_table.png",
+            "imgSrc1": "./images/Artel-Baraka.png",
+            "imgSrc2": "./images/Artel-Baraka_1.png",
+            "imgSrc3": "./images/Artel-Baraka_2.png",
+            "imgSrc4": "./images/Artel-Baraka_3.png",
+            "imgSrc5": "./images/Artel-Baraka_4.jpg",
+            "company": "Сплит"
+        },
+        {
+            "id": 41,
+            "productName": "Artel-Everest",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/Artel-Everest_table.png",
+            "imgSrc1": "./images/Artel-Everest.png",
+            "imgSrc2": "./images/Artel-Everest_1.png",
+            "imgSrc3": "./images/Artel-Everest_2.png",
+            "company": "Сплит"
+        },
+        {
+            "id": 42,
+            "productName": "Artel-Everest-Inverter",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/Artel-Everest-Inverter_table.png",
+            "imgSrc1": "./images/Artel-Everest-Inverter.png",
+            "imgSrc2": "./images/Artel-Everest-Inverter_1.png",
+            "imgSrc3": "./images/Artel-Everest-Inverter_2.png",
+            "company": "Сплит"
         }
     ]
 }
