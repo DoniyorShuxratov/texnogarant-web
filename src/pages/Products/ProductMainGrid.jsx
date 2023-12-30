@@ -15,6 +15,9 @@ export default function ProductMainGrid() {
         return selectedCompany ? product.company === selectedCompany : true;
     }
 
+    // Extract unique company names
+    const uniqueCompanyNames = Array.from(new Set(data.products.map(product => product.company)));
+
     const handleCompanyChange = (company) => {
         setSelectedCompany(company);
     }
@@ -28,16 +31,19 @@ export default function ProductMainGrid() {
                 <span>Выберите компанию:</span>
                 <select id="companySelect" onChange={(e) => handleCompanyChange(e.target.value)}>
                     <option value="">Все компании</option>
-                    {data.products.map((product) => (
-                        <option key={product.id} value={product.company}>{product.company}</option>
+                    {uniqueCompanyNames.map((company) => (
+                        <option key={company} value={company}>{company}</option>
                     ))}
                 </select>
             </div>
             <div className="intro--product--container container">
-                
                 {data?.products?.filter(filterProductsByCompany).map((item, i) => (
                     <button
-                        style={{ backgroundImage: `linear-gradient(0deg, var(--primary-with-opacity) 0%, var(--primary-with-opacity) 50%), url(${item.imgSrc})`, }}
+                        style={{
+                            backgroundImage: `linear-gradient(0deg, var(--primary-with-opacity) 0%, var(--primary-with-opacity) 50%), url(${item.imgSrc1})`,
+                            backgroundPosition: 'center',
+                            backgroundSize: 'cover',
+                        }}
                         key={i} className="intro--product--card" onClick={() => handleProductClick(item)}>
                         <div className="card--title">
                             <h3>{item.productName}</h3>

@@ -2,10 +2,11 @@
     "products": [
         {
             "id": 1,
-            "productName": "Product Name 1",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "./images/AHU-35-50_table.png",
-            "imgSrc1": "./images/product_2.png",
+            "productName": "AHU-15-25",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/AHU-15-25_table.png",
+            "imgSrc1": "./images/AHU-15-25_1.png",
+            "imgSrc2": "./images/AHU-15-25_2.png",
             "company": "Shivaki",
             "productType": "AHU"
         },
