@@ -177,11 +177,18 @@ h5 {
 .slide--content-sub > button {
   padding: 10px 50px;
   background: none;
-  border: 2px solid #000;
+  border: 2px solid var(--black);
   font-size: 28px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  transition: all 0.2s ease-in-out;
+}
+
+.slide--content-sub > button:hover {
+  background-color: var(--primary);
+  border: 2px solid var(--primary);
+  color: var(--bg-shade);
 }
 
 .slide-one {
@@ -216,6 +223,11 @@ h5 {
 .intro--product--container > button {
   text-align: start;
   border: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.intro--product--container > button:hover {
+  box-shadow: rgba(69, 69, 69, 0.2) 0px 7px 29px 0px;
 }
 
 .intro--product--card {
@@ -264,6 +276,12 @@ h5 {
   background-color: var(--primary);
   margin-top: 50px;
   padding-bottom: 50px;
+}
+
+.news--card--content-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .news--cards {
@@ -321,7 +339,7 @@ h5 {
 }
 
 .news--screen-img > img {
-  width: 500px;
+  width: 100%;
   height: auto;
 }
 
@@ -329,8 +347,6 @@ h5 {
 .partners-intro--section {
   padding-bottom: 50px;
 }
-
-
 
 .parter-list > img {
   max-width: 400px;

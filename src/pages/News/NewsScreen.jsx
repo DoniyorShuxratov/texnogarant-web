@@ -15,7 +15,7 @@ export default function NewsScreen() {
                 <div className="news--screen-contant">
                     <span>{news.newsSubTitle}</span>
                     <p>{news.NewsContent}</p>
-                </div>
+                </div> 
             </div>
         </section>
     )

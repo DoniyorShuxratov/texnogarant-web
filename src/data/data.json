@@ -2,77 +2,94 @@
     "products": [
         {
             "id": 1,
-            "productName": "Product Name 1",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 1",
-            "productType": "--type"
+            "productName": "AHU-15-25" ,
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/AHU-15-25_table.png",
+            "imgSrc1": "./images/AHU-15-25_1.png",
+            "imgSrc2": "./images/AHU-15-25_2.png",
+            "company": "Shivaki",
+            "productType": "AHU"
         },
         {
             "id": 2,
-            "productName": "Product Name 2",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "ghjghj",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 2"
+            "productName": "AHU-35-50" ,
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/AHU-35-50_table.png",
+            "imgSrc1": "./images/AHU-35-50_1.png",
+            "imgSrc2": "./images/AHU-35-50_2.png",
+            "company": "Shivaki",
+            "productType": "AHU"
         },
         {
             "id": 3,
-            "productName": "Product Name 3",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "ghjghj",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 3"
+            "productName": "CTX1-T65HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/CTX1-T65HF_table.png",
+            "imgSrc": "./images/CTX1-T65HF.png",
+            "company": "Чиллер"
         },
         {
             "id": 4,
-            "productName": "Product Name 4",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "ghjghj",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 4"
+            "productName": "CTX1-T130HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/CTX1-T130HF_table.png",
+            "imgSrc": "./images/CTX1-T130HF.png",
+            "company": "Чиллер"
         },
         {
             "id": 5,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "ghjghj",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 5"
+            "productName": "CTX1-T260HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/CTX1-T260HF_table.png",
+            "imgSrc": "./images/CTX1-T260HF.png",
+            "company": "Чиллер"
         },
         {
             "id": 6,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            
-            "productDescription": "ghjghj",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 6"
+            "productName": "CTX1-T440HF",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/CTX1-T440HF_table.png",
+            "imgSrc": "./images/CTX1-T440HF.png",
+            "company": "Чиллер"
         },
         {
             "id": 7,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "ghjghj",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 7"
+            "productName": "SHCSP-1250-HZ",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ", 
+            "productDescription": "./image/SHCSP-1250-HZ_table.png",
+            "imgSrc1": "./images/SHCSP-1250-HZ_1.jpg",
+            "imgSrc2": "./images/SHCSP-1250-HZ_2.jpg",
+            "imgSrc3": "./images/SHCSP-1250-HZ_3.jpg",
+            "company": "Cold Storage"
+        },
+        {
+            "id": 7,
+            "productName": "SHCSP-0670-HZ",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/SHCSP-0670-HZ_table.png",
+            "imgSrc1": "./images/SHCSP-0670-HZ_1.jpg",
+            "imgSrc2": "./images/SHCSP-0670-HZ_2.jpg",
+            "imgSrc3": "./images/SHCSP-0670-HZ_3.jpg",
+            "company": "Cold Storage"
         },
         {
             "id": 8,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "ghjghj",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 8"
+            "productName": "SHCSP-0385-HZ",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/SHCSP-0670-HZ_table.png",
+            "imgSrc1": "./images/SHCSP-0385-HZ_1.jpg",
+            "imgSrc2": "./images/SHCSP-0385-HZ_2.jpg",
+            "imgSrc3": "./images/SHCSP-0385-HZ_3.jpg",
+            "company": "Cold Storage"
         },
         {
             "id": 9,
-            "productName": "Product Name",
-            "productSubName": "Lorem ipsum",
-            "productDescription": "ghjghj",
-            "imgSrc": "./images/product_2.png",
-            "company": "Company Name 9"
+            "productName": "SHCSP-0475-HZ",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./image/SHCSP-0475-HZ_table.png",
+            "imgSrc1": "./images/SHCSP-0475-HZ_1.jpg",
+            "imgSrc2": "./images/SHCSP-0475-HZ_2.jpg",
+            "company": "Cold Storage"
         }
     ]
 }
