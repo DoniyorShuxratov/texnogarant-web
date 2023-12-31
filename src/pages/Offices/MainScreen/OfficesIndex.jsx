@@ -1,10 +1,10 @@
 import Footer from "../../Home/Footer";
-import OfficesScreen from "../OfficesScreen";
+import NumbersMainGreed from "../MainScreen";
 
 export default function OfficesIndex() {
     return (
         <>
-            <OfficesScreen/>
+            <NumbersMainGreed/>
             <Footer/>
         </>
     )
