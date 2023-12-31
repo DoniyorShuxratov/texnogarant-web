@@ -433,6 +433,186 @@
             "imgSrc3": "./images/Artel-Everest-Inverter_2.png",
             "company": "Shivaki",
             "productType": "Сплит"
-        }
+        },
+        {
+            "id": 43,
+            "productName": "PREXTHERM RSW 92÷1890",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/PREXTHERM-RSW-92÷1890_table.png",
+            "imgSrc1": "./images/PREXTHERM-RSW-92÷1890.png",
+            "company": "Водогрейные котлы",
+            "productType": ""
+        },
+        {
+            "id": 44,
+            "productName": "PREXTHERM RSW 2360÷6000",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/PREXTHERM-RSW-2360÷6000_table.png",
+            "imgSrc1": "./images/PREXTHERM-RSW-2360÷6000.png",
+            "company": "Водогрейные котлы",
+            "productType": ""
+        },
+        {
+            "id": 45,
+            "productName": "Nasos-APm-37",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/APm-37_table.png",
+            "imgSrc1": "./images/APm-37.png",
+            "company": "Leo Hacoc",
+            "productType": "APm"
+        },
+        {
+            "id": 46,
+            "productName": "Nasos-APm-60",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/APm-60_table.png",
+            "imgSrc1": "./images/APm-60.png",
+            "company": "Leo Hacoc",
+            "productType": "APm"
+        },
+        {
+            "id": 46,
+            "productName": "Nasos-AJm-75",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/AJm-75_table.png",
+            "imgSrc1": "./images/AJm-75.png",
+            "company": "Leo Hacoc",
+            "productType": "AJm"
+        },
+        {
+            "id": 47,
+            "productName": "Nasos-AJm-110",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/AJm-110_table.png",
+            "imgSrc1": "./images/AJm-110.png",
+            "company": "Leo Hacoc",
+            "productType": "AJm"
+        },
+        {
+            "id": 48,
+            "productName": "Nasos-ACm-37",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/ACm-37_table.png",
+            "imgSrc1": "./images/ACm-37.png",
+            "company": "Leo Hacoc",
+            "productType": "ACm"
+        },
+        {
+            "id": 49,
+            "productName": "Nasos-ACm-75",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/ACm-75_table.png",
+            "imgSrc1": "./images/ACm-75.png",
+            "company": "Leo Hacoc",
+            "productType": "ACm"
+        },
+        {
+            "id": 50,
+            "productName": "Nasos-LKSm-130A",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/LKSm-130A_table.png",
+            "imgSrc1": "./images/LKSm-130A.png",
+            "company": "Leo Hacoc",
+            "productType": "LKSm"
+        },
+        {
+            "id": 51,
+            "productName": "Nasos-LKSm-350A",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/LKSm-350A_table.png",
+            "imgSrc1": "./images/LKSm-350A.png",
+            "company": "Leo Hacoc",
+            "productType": "LKSm"
+        },
+        {
+            "id": 52,
+            "productName": "Nasos-LKSm-550A",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/LKSm-550A_table.png",
+            "imgSrc1": "./images/LKSm-550A.png",
+            "company": "Leo Hacoc",
+            "productType": "LKSm"
+        },
+        {
+            "id": 53,
+            "productName": "Nasos-LKSm-750A",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/LKSm-750A_table.png",
+            "imgSrc1": "./images/LKSm-750A.png",
+            "company": "Leo Hacoc",
+            "productType": "LKSm"
+        },
+        {
+            "id": 54,
+            "productName": "Nasos-LKSm-1100A",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/LKSm-1100A_table.png",
+            "imgSrc1": "./images/LKSm-1100A.png",
+            "company": "Leo Hacoc",
+            "productType": "LKSm"
+        },
+        {
+            "id": 55,
+            "productName": "Nasos-LRP25-40-180L",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/LRP25-40-180L_table.png",
+            "imgSrc1": "./images/LRP25-40-180L.png",
+            "company": "Leo Hacoc",
+            "productType": "LRP"
+        },
+        {
+            "id": 56,
+            "productName": "Nasos-LRP25-60-180L",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/LRP25-60-180L_table.png",
+            "imgSrc1": "./images/LRP25-60-180L.png",
+            "company": "Leo Hacoc",
+            "productType": "LRP"
+        },
+        {
+            "id": 57,
+            "productName": "Nasos-LRP25-80-180L",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/LRP25-80-180L_table.png",
+            "imgSrc1": "./images/LRP25-80-180L.png",
+            "company": "Leo Hacoc",
+            "productType": "LRP"
+        },
+        {
+            "id": 58,
+            "productName": "Nasos-QDX-1.5-12-0.25LA",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/QDX-1.5-12-0.25LA_table.png",
+            "imgSrc1": "./images/QDX-1.5-12-0.25LA.png",
+            "company": "Leo Hacoc",
+            "productType": "QDX"
+        },
+        {
+            "id": 59,
+            "productName": "Nasos-QDX-1.5-15-0.37LA",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/QDX-1.5-15-0.37LA_table.png",
+            "imgSrc1": "./images/QDX-1.5-15-0.37LA.png",
+            "company": "Leo Hacoc",
+            "productType": "QDX"
+        },
+        {
+            "id": 60,
+            "productName": "Nasos-QDX-1.5-32-0.75LA",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/QDX-1.5-32-0.75LA_table.png",
+            "imgSrc1": "./images/QDX-1.5-32-0.75LA.png",
+            "company": "Leo Hacoc",
+            "productType": "QDX"
+        },
+        {
+            "id": 60,
+            "productName": "Nasos-QDX-1.5-32-0.75LA",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/QDX-1.5-32-0.75LA_table.png",
+            "imgSrc1": "./images/QDX-1.5-32-0.75LA.png",
+            "company": "Leo Hacoc",
+            "productType": "QDX"
+        },
     ]
 }
