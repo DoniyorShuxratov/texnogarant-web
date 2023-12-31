@@ -606,13 +606,94 @@
             "productType": "QDX"
         },
         {
-            "id": 60,
-            "productName": "Nasos-QDX-1.5-32-0.75LA",
-            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
-            "productDescription": "./images/QDX-1.5-32-0.75LA_table.png",
-            "imgSrc1": "./images/QDX-1.5-32-0.75LA.png",
-            "company": "Leo Hacoc",
-            "productType": "QDX"
+            "id": 61,
+            "productName": "OSTEN-HP-1",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/OSTEN-HP-1_table.png",
+            "imgSrc1": "./images/OSTEN-HP-1.jpg",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 62,
+            "productName": "OSTEN-SV-1",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/OSTEN-SV-1_table.png",
+            "imgSrc1": "./images/OSTEN-SV-1.jpg",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 63,
+            "productName": "OSTEN-ST-1",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/OSTEN-ST-1_table.png",
+            "imgSrc1": "./images/OSTEN-ST-1.jpg",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 64,
+            "productName": "OSTEN-ST-2",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/OSTEN-ST-2_table.png",
+            "imgSrc1": "./images/OSTEN-ST-2.jpg",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 65,
+            "productName": "OSTEN-ST-3",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/OSTEN-ST-3_table.png",
+            "imgSrc1": "./images/OSTEN-ST-3.jpg",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 66,
+            "productName": "OSTEN-ST-4",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/OSTEN-ST-4_table.png",
+            "imgSrc1": "./images/OSTEN-ST-4.jpg",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 67,
+            "productName": "OSTEN-ST-5",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/OSTEN-ST-5_table.png",
+            "imgSrc1": "./images/OSTEN-ST-5.jpg",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 68,
+            "productName": "OSTEN-ST-6",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/OSTEN-ST-6_table.png",
+            "imgSrc1": "./images/OSTEN-ST-6.jpg",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 69,
+            "productName": "Эскалатор",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/ekskolator_table.png",
+            "imgSrc1": "./images/ekskolator.png",
+            "company": "Остен лифты",
+            "productType": ""
+        },
+        {
+            "id": 70,
+            "productName": "Траволатор",
+            "productSubName": "ХАРАКТЕРИСТИКА",
+            "productDescription": "./images/ekskolator_1_table.png",
+            "imgSrc1": "./images/ekskolator_1.png",
+            "company": "Остен лифты",
+            "productType": ""
         },
     ]
 }
