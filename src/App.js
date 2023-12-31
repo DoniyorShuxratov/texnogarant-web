@@ -11,6 +11,7 @@ import NewsScreen from './pages/News/NewsScreen';
 import OfficesIndex from './pages/Offices/MainScreen/OfficesIndex';
 import DislocationIndex from './pages/Dislocation/MainScreen/DislocationIndex';
 import DislocatioScreen from './pages/Dislocation/DialocationScreen';
+import ExtraNumbersScreen from './pages/Offices/ExtraNumbersScreen';
 
 function App() {
   return <div className="App">
@@ -29,6 +30,12 @@ function App() {
           <Route path='/product-screen' element={<ProductScreen />}/>
           <Route path='/news-screen' element={<NewsScreen />}/>
           <Route path='/dislocation-screen' element={<DislocatioScreen />}/>
+          
+          
+          <Route path='/extra-numbers-screen' element={<ExtraNumbersScreen />}/>
+          <Route path='/dislocation-screen' element={<DislocatioScreen />}/>
+
+          
         </Routes>
       
       </div>
