@@ -695,5 +695,59 @@
             "company": "Остен лифты",
             "productType": ""
         },
+        {
+            "id": 71,
+            "productName": "TEGH-G1.6",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/TEGH-G1.6_table.png",
+            "imgSrc1": "./images/TEGH-G1.6.png",
+            "company": "Остен счётчик",
+            "productType": ""
+        },
+        {
+            "id": 72,
+            "productName": "TEGH-G2.5",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/TEGH-G2.5_table.png",
+            "imgSrc1": "./images/TEGH-G2.5.png",
+            "company": "Остен счётчик",
+            "productType": ""
+        },
+        {
+            "id": 73,
+            "productName": "TEGH-G4",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/TEGH-G4_table.png",
+            "imgSrc1": "./images/TEGH-G4.png",
+            "company": "Остен счётчик",
+            "productType": ""
+        },
+        {
+            "id": 74,
+            "productName": "TEGH-G6",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/TEGH-G6_table.png",
+            "imgSrc1": "./images/TEGH-G6.png",
+            "company": "Остен счётчик",
+            "productType": ""
+        },
+        {
+            "id": 75,
+            "productName": "TEGH-G10",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/TEGH-G10_table.png",
+            "imgSrc1": "./images/TEGH-G10.png",
+            "company": "Остен счётчик",
+            "productType": ""
+        },
+        {
+            "id": 76,
+            "productName": "TEGH-G16",
+            "productSubName": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+            "productDescription": "./images/TEGH-G16_table.png",
+            "imgSrc1": "./images/TEGH-G16.png",
+            "company": "Остен счётчик",
+            "productType": ""
+        }
     ]
 }
