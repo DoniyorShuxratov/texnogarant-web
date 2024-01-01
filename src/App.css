@@ -214,7 +214,6 @@ h5 {
 
 .intro--product--container {
   display: flex;
-  justify-content: start;
   flex-wrap: wrap;
   align-items: center;
   gap: 25px;
