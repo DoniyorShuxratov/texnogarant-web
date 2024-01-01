@@ -1,52 +1,77 @@
 import React, { useState } from 'react';
-import data from '../../data/offices.json';
 
-export default function OfficesScreen() {
-    const [openListIndex, setOpenListIndex] = useState(null);
-
-    const handleListToggle = (index) => {
-        setOpenListIndex((prevIndex) => (prevIndex === index ? null : index));
-    };
+export default function TechnologyScreen() {
 
     return (
         <section className="offices--section">
             <div className="offices--section-container container">
                 <div className="section-title">
-                    <h1>наш офис</h1>
+                    <h1>Дополнительные номера</h1>
                 </div>
                 <div className="offices--lists">
-                    {data?.offices?.map((item, i) => (
-                        <div key={i} className="offices--list">
-                            <div
-                                id={`listOpenBtn_${i}`}
-                                className="office--list-top"
-                                onClick={() => handleListToggle(i)}
-                            >
-                                <h5>{item.holder}</h5>
-                                <span>{openListIndex === i ? '-' : '+'}</span>
-                            </div>
-                            <div className={`bottom-list ${openListIndex === i ? 'anim-open' : ''}`}>
-                                <div
-                                    id={`listBottomList_${i}`}
-                                    className={'office--list-bottom'}
-                                >
-                                    <div className="list--bottom-grid grid-1">
-                                        <p>Email:</p>
-                                        <p>{item.details.email}</p>
-                                    </div>
-                                    <div className="list--bottom-grid grid-2">
-                                        <p>Должность:</p>
-                                        <p>{item.details.position}</p>
-                                    </div>
-                                    <div className="list--bottom-grid grid-3">
-                                        <p>Имя:</p>
-                                        <p>{item.details.name}</p>
-                                    </div>
-                                </div>
-                            </div>
-                                
-                        </div>
-                    ))}
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Ф.И.О</th>
+                                <th>Должность</th>
+                                <th>Телефон</th>
+                                <th>Время работы</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th colSpan={4}>По лифтам и эскалаторам</th>
+                            </tr>
+                            <tr>
+                                <td>Кударов Шодиёр</td>
+                                <td>Менеджер по сервису</td>
+                                <td>+998 (99) 830 19 66</td>
+                                <td>Пон. Суб. 09:00 - 18:00 </td>
+                            </tr>
+                            <tr>
+                                <th colSpan={4}>По газовам счётчикам</th>
+                            </tr>
+                            <tr>
+                                <td>Юлдашев Расул</td>
+                                <td>Главный технолог</td>
+                                <td>+998 (97) 722 54 00</td>
+                                <td>Пон. Суб. 09:00 - 18:00 </td>
+                            </tr>
+                            <tr>
+                                <th colSpan={4}>По бытовым насосам</th>
+                            </tr>
+                            <tr>
+                                <td>Отаев Дадабек</td>
+                                <td>Менеджер по сервису</td>
+                                <td>+998 (90) 033 16 13</td>
+                                <td>Пон. Суб. 09:00 - 18:00 </td>
+                            </tr>
+                            <tr>
+                                <td>Ниғматов Мурод</td>
+                                <td>Менеджер по сервису</td>
+                                <td>+998 (94) 645 65 31</td>
+                                <td>Пон. Суб. 09:00 - 18:00 </td>
+                            </tr>
+                            <tr>
+                                <th colSpan={4}>По промышленных кондиционеров</th>
+                            </tr>
+                            <tr>
+                                <td>Иномов Аслиддин</td>
+                                <td>Менеджер по сервису</td>
+                                <td>+998 (99) 637 59 12</td>
+                                <td>Пон. Суб. 09:00 - 18:00 </td>
+                            </tr>
+                            <tr>
+                                <th colSpan={4}>По промышленных котлов</th>
+                            </tr>
+                            <tr>
+                                <td>Мирахмадов Сарвар</td>
+                                <td>Менеджер по сервису</td>
+                                <td>+998 (90) 397 33 31</td>
+                                <td>Пон. Суб. 09:00 - 18:00 </td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </section>

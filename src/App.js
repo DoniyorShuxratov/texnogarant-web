@@ -12,6 +12,9 @@ import OfficesIndex from './pages/Offices/MainScreen/OfficesIndex';
 import DislocationIndex from './pages/Dislocation/MainScreen/DislocationIndex';
 import DislocatioScreen from './pages/Dislocation/DialocationScreen';
 import ExtraNumbersScreen from './pages/Offices/ExtraNumbersScreen';
+import OfficesScreen from './pages/Offices/OfficesScreen';
+import TechnologyScreen from './pages/Offices/TechnologyScreen';
+import ManagersScreen from './pages/Offices/ManagersScreen';
 
 function App() {
   return <div className="App">
@@ -33,7 +36,9 @@ function App() {
           
           
           <Route path='/extra-numbers-screen' element={<ExtraNumbersScreen />}/>
-          <Route path='/dislocation-screen' element={<DislocatioScreen />}/>
+          <Route path='/offices-screen' element={<OfficesScreen />}/>
+          <Route path='/technology-screen' element={<TechnologyScreen />}/>
+          <Route path='/manager-screen' element={<ManagersScreen />}/>
 
           
         </Routes>

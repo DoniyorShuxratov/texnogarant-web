@@ -7,6 +7,15 @@ export default function NumbersMainGreed() {
     const ExtraNumbersScreen = () => {
         navigate('/extra-numbers-screen');
     }
+    const OfficesScreen = () => {
+        navigate('/offices-screen');
+    }
+    const TechnologyScreen = () => {
+        navigate('/technology-screen');
+    }
+    const ManagerScreen = () => {
+        navigate('/manager-screen');
+    }
 
     return(
         <section className="dislocation--section">
@@ -15,20 +24,16 @@ export default function NumbersMainGreed() {
                     <h1>Дислокация</h1>
                 </div>
                 <div className="dislocation--grid">
-                    <button className="dislocation--card">
+                    <button className="dislocation--card" onClick={OfficesScreen}>
                         <h4>Офисы</h4>
                         <TopRightArrow/>
                     </button>
-                    <button className="dislocation--card">
+                    <button className="dislocation--card" onClick={TechnologyScreen}>
                         <h4>Технологии</h4>
                         <TopRightArrow/>
                     </button>
-                    <button className="dislocation--card">
+                    <button className="dislocation--card" onClick={ManagerScreen}>
                         <h4>Меннджеры</h4>
-                        <TopRightArrow/>
-                    </button>
-                    <button className="dislocation--card">
-                        <h4>Продажи</h4>
                         <TopRightArrow/>
                     </button>
                     <button className="dislocation--card" onClick={ExtraNumbersScreen}>

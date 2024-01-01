@@ -113,6 +113,7 @@ h5 {
   height: 65px;
   background-color: var(--primary);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+
 }
 
 .navbar-container {
@@ -422,6 +423,8 @@ h5 {
 
 .footer--scetion {
   background-color: var(--primary);
+  position: relative;
+  bottom: 0;
 }
 
 .footer--section-container {
@@ -492,7 +495,7 @@ h5 {
 /* dislocation style */
 
 .dislocation--section {
-  padding-bottom: 50px;
+  padding-bottom: 150px;
 }
 
 .dislocation--grid {
@@ -592,4 +595,10 @@ tbody tr:nth-of-type(even) {
 
 tbody tr:last-of-type {
   border-bottom: 2px solid #000;
+}
+
+tbody th {
+  background-color: var(--primary-with-opacity);
+  color: var(--black);
+  font-weight: normal;
 }
