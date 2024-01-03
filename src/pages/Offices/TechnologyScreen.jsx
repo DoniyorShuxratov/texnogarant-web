@@ -10,7 +10,7 @@ export default function TechnologyScreen() {
                 <div className="offices--lists">
                     <table>
                         <thead>
-                            <tr>
+                            <tr>    
                                 <th>Ф.И.О</th>
                                 <th>Должность</th>
                                 <th>Телефон</th>

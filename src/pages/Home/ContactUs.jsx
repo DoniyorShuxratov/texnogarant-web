@@ -4,6 +4,8 @@ import { FaYoutube } from "react-icons/fa";
 import { FaTelegram } from "react-icons/fa6";
 import { BsTwitterX } from "react-icons/bs";
 
+import { YMaps, Map, Placemark } from '@pbe/react-yandex-maps';
+
 export default function Contact() {
     return (
         <section className="contact--section">
@@ -32,8 +34,13 @@ export default function Contact() {
                 </div>
 
                 <div className="contact--map">
-                    <h3>map</h3>
-                    {/* <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11989.528492361833!2d69.2841786146164!3d41.30055005009436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2s!4v1703222812339!5m2!1sru!2s" width="600" height="450" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe> */}
+                    <YMaps>
+                        <div>
+                            <Map width={350} height={450} defaultState={{ center: [41.302931, 69.314794], zoom: 15 }}>
+                                <Placemark geometry={[41.302931, 69.314794]} />
+                            </Map>
+                        </div>
+                    </YMaps>
                 </div>
             </div>
         </section>
