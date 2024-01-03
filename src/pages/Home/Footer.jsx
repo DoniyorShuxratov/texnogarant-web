@@ -40,7 +40,7 @@ export default function Footer(){
                 </div>
                 <div className="footer--ofdocs">
                     <h5>© TEXNOGARANT. TEXNOPARK 2023</h5>
-                    <h5>design by OMY <a href="#">OMY</a> </h5>
+                    <h5>design by OMY</h5>
                 </div>
             </div>
         </section>
