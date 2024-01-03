@@ -26,11 +26,15 @@ p{
     margin: 0;
 
 }
-
+a {
+  color: var(--black);
+}
 button {
   background: none;
   font-family: 'Montserrat';
   cursor: pointer;
+  color: var(--black);
+  border: var(--black);
 }
 
 :root {
@@ -507,10 +511,12 @@ h5 {
 .dislocation--card {
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 8px 15px;
   width: 380px;
   justify-content: space-between;
+  border: 2px solid var(--black);
 }
+
 
 .dislocation--card > svg {
   width: 25px;
